@@ -5,6 +5,8 @@
 ## Project Summary and Goal
 The Amazing Bank is a modern digital banking platform designed to revolutionize the banking experience through cutting-edge technologies and innovative solutions. Our mission is to make banking simple, secure, and accessible to everyone, leveraging AI, blockchain, and modern web technologies to create a seamless user experience.
 
+![Homepage](./images/abank-homepage.png)
+
 Key features of our platform include:
 - AI-driven financial insights and recommendations
 - Blockchain-based secure transactions
